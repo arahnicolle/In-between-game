@@ -67,13 +67,14 @@
 
 .btn2 {
   position: relative;
-  bottom: 59px;
+  bottom: 54px;
   left: 55px;
   background-color: #fe6d73;
   border: none;
   border-radius: 20px;
   font-size: 18px;
   color: #FFFFFF;
+  margin-left: 3rem;
   padding: 10px;
   width: 100px;
   text-align: center;
